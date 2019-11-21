@@ -1,8 +1,6 @@
-# ZAMS2.0
+# Economic Indicators of U.S. Migration
 
-Project Title : Economic Indicators of U.S. Migration
-
-Team Member : Abdul Kamara, Mitchell Capell, Zachary Pitts, Smit Gandhi
+Team Members : Abdul Kamara, Mitchell Capell, Zachary Pitts, Smit Gandhi
 
 Project Description : In our presentation we will be focusing on the economic factors that effect domestic migration in the U.S.
 
